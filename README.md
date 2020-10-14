@@ -9,5 +9,5 @@ You can find all of the raw scripts in folders section.
 
 ## Installation
 >You can download APK of this game from the link below;\
-><https://drive.google.com/drive/folders/1SeDvlQBdnMBH_lgSxNIPOGpcY6gvmjTq?usp=sharing>
+><https://drive.google.com/drive/folders/1Zltj8qnktVPA5Ku_aXiIqiGFA7sPY4W1?usp=sharing>
 
